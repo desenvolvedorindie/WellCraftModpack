@@ -4,6 +4,7 @@ Well Mod Pack for 1.6.2 (1.0)
 - Forge 9.10.1.871 (
 [Página](http://files.minecraftforge.net/)
  | [Download](http://adf.ly/673885/http://files.minecraftforge.net/minecraftforge/minecraftforge-installer-1.6.2-9.10.1.871.jar)
+ | [Dev](https://github.com/MinecraftForge/MinecraftForge)
 )
 
 - [1.6.2]bspkrsCorev3.05 (
@@ -64,6 +65,7 @@ Well Mod Pack for 1.6.2 (1.0)
 - buildcraft-A-1.6.2-4.1.0 (
 [Página](http://www.mod-buildcraft.com/)
  | [Download](http://www.curseforge.com/media/files/741/278/buildcraft-A-1.6.2-4.1.0.jar)
+ | [Dev](https://github.com/BuildCraft/BuildCraft)
 )
 
 - chargepads-1.6.2-universal-3.0.0.94-experimental (
@@ -221,6 +223,7 @@ Well Mod Pack for 1.6.2 (1.0)
 - MAtmosClassesNDP_r25__1_6_2 (
 [Página](http://ha3.eu/public/mc-mods/matmos.php)
  | [Download](http://adf.ly/SOdxU)
+ | [Dev](https://github.com/Hurricaaane/MAtmos)
 )
 
 - MekanismGenerators-v5.5.7.211 (
@@ -381,6 +384,7 @@ Well Mod Pack for 1.6.2 (1.0)
 - UniversalElectricity_Core_v2.2.0.172 (
 [Página](http://universalelectricity.com/)
  | [Download](http://api.viglink.com/api/click?format=go&key=9b4efad421c8b103b2c94b796db973b0&loc=http%3A%2F%2Funiversalelectricity.com%2Funiversalelectricity%2Fdownloads&subId=8240d9b1db1708d334dd983d36458303&v=1&libId=dc1ee656-5eaa-4d7f-b8dd-8adb26db88bc&out=http%3A%2F%2Fadf.ly%2F1957614%2Fhttp%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DUniversal%2520Electricity%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FUniversal%2BElectricity%252Fbuilds%252F173%252Farchive%252Foutput%252FUniversalElectricity_Core_v2.2.0.173.jar&ref=http%3A%2F%2Funiversalelectricity.com%2F&title=Universal%20Electricity%20Downloads%20%7C%20Universal%20Electricity&txt=UniversalElectricity_Core_v2.2.0.173&jsonp=vglnk_jsonp_13808496815446)
+ | [Dev](https://github.com/Universal-Electricity/Basic-Components?source=cc)
 )
 
 - WR-CBE 1.4.0.5  (
