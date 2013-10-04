@@ -1,8 +1,10 @@
 Well Mod Pack for 1.6.2 (1.0)
 =========
 
-- Forge 9.10.1.871
-[Download](http://adf.ly/673885/http://files.minecraftforge.net/minecraftforge/minecraftforge-installer-1.6.2-9.10.1.871.jar)
+- Forge 9.10.1.871 (
+[Página](http://files.minecraftforge.net/)
+ | [Download](http://adf.ly/673885/http://files.minecraftforge.net/minecraftforge/minecraftforge-installer-1.6.2-9.10.1.871.jar)
+)
 
 - [1.6.2]bspkrsCorev3.05 (
 [Página](http://www.minecraftforum.net/topic/1009577-164-daftpvfs-mods-treecapitator-ingameinfo-crystalwing-startinginv-floatingruins/)
