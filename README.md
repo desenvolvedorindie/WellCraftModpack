@@ -10,16 +10,19 @@ Well Mod Pack for 1.6.2 (1.0)
 - [1.6.2]bspkrsCorev3.05 (
 [Página](http://www.minecraftforum.net/topic/1009577-164-daftpvfs-mods-treecapitator-ingameinfo-crystalwing-startinginv-floatingruins/)
  | [Download](http://adf.ly/1599906/bspk.rs/MC/bspkrsCore/[1.6.2]bspkrsCorev3.05.zip)
+ | [Dev](https://github.com/bspkrs/bspkrsCore)
 )
 
 - [1.6.2]CrystalWing.ML.1.6.2.r03 (
 [Página](http://www.minecraftforum.net/topic/1009577-164-daftpvfs-mods-treecapitator-ingameinfo-crystalwing-startinginv-floatingruins/)
  | [Download](http://adf.ly/1599906/bspk.rs/MC/CrystalWing/[1.6.2]CrystalWing.ML.1.6.2.r03.zip)
+ | [Dev](https://github.com/bspkrs/CrystalWing)
 )
 
 - [1.6.2]IngameInfo.ML.1.6.2.r05 (
 [Página](http://www.minecraftforum.net/topic/1009577-164-daftpvfs-mods-treecapitator-ingameinfo-crystalwing-startinginv-floatingruins/)
  | [Download](http://adf.ly/1599906/bspk.rs/MC/IngameInfo/[1.6.2]IngameInfo.ML.1.6.2.r05.zip)
+ | [Dev](https://github.com/bspkrs/IngameInfo)
 )
 
 - [1.6.2]ReiMinimap_v3.4_01 (
