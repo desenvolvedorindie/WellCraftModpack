@@ -135,7 +135,7 @@ Créditos:
 Instalações:
 ------------
 
-- [1.6.2] Doggy Talents - v1.5.0a
+- [1.6.2] Doggy Talents - v1.5.0a (
 [Fórum](http://www.minecraftforum.net/topic/1650096-)
  | [Download](http://adfoc.us/14766133599210)
  | [Dev](https://github.com/ProPercivalalb/DoggyTalents)
@@ -245,7 +245,7 @@ Instalações:
  | [Download](http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip)
 )
 
-obsidiplates-1.6.2-universal-2.0.0.15 por myrathi2 (
+- obsidiplates-1.6.2-universal-2.0.0.15 por myrathi2 (
 [Página](http://minecraft.curseforge.com/mc-mods/obsidiplates/)
  | [Download](http://minecraft.curseforge.com/mc-mods/obsidiplates/files/4-obsidi-plates-v2-0-0-15/)
 )
@@ -315,7 +315,7 @@ obsidiplates-1.6.2-universal-2.0.0.15 por myrathi2 (
  | [Download](http://adf.ly/1311628/thaumcraft-4)
 )
 
-ThaumicTinkerer 2.0-19 (
+- ThaumicTinkerer 2.0-19 (
  [Fórum](http://www.minecraftforum.net/topic/1813058-)
  | [Download](https://www.sugarsync.com/pf/D9740002_63478821_363575)
  | [Dev](https://github.com/Vazkii/ThaumicTinkerer)
