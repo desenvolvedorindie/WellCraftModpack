@@ -315,9 +315,9 @@ Instalações:
  | [Download](http://adf.ly/1311628/thaumcraft-4)
 )
 
-- ThaumicTinkerer 2.0-19 (
+- ThaumicTinkerer 2.0-21 (
  [Fórum](http://www.minecraftforum.net/topic/1813058-)
- | [Download](https://www.sugarsync.com/pf/D9740002_63478821_363575)
+ | [Download](https://www.sugarsync.com/pf/D9740002_63478821_374814)
  | [Dev](https://github.com/Vazkii/ThaumicTinkerer)
 )
 
