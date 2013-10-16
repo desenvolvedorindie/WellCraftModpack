@@ -310,7 +310,7 @@ Instalações:
  | [Download](http://adf.ly/V5Ytf)
 )
 
-- Thaumcraft4.0.1b (
+- Thaumcraft4.0.2A (
  [Fórum](http://www.minecraftforum.net/topic/2011841-)
  | [Download](http://adf.ly/1311628/thaumcraft-4)
 )
