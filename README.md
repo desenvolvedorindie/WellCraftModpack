@@ -61,8 +61,13 @@ Créditos:
 )
 
 - CodeChickenCore 0.9.0.5 por chicken_bones (
-[Página](http://www.minecraftforum.net/topic/909223-164-)
+[Página](http://www.minecraftforum.net/topic/909223-)
  | [Download](http://adf.ly/SohmY)
+)
+
+- ComputerCraft1.56 por dan200 (
+[Página](http://www.computercraft.info/)
+ | [Download](http://www.mediafire.com/download/b90mr75p779wj2e/ComputerCraft1.56.zip)
 )
 
 - DartCraft Beta 0.2.10 por bluedart (
@@ -166,11 +171,6 @@ Instalações:
 - chargepads-1.6.2-universal-3.0.0.94-experimental (
 [Página](http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892)
  | [Download](http://minecraft.curseforge.com/mc-mods/chargepads/files/8-charge-pads-v3-0-0-94-exp/)
-)
-
-- ComputerCraft1.56 (
-[Página](http://www.computercraft.info/)
- | [Download](http://www.mediafire.com/download/b90mr75p779wj2e/ComputerCraft1.56.zip)
 )
 
 - DynamicLights_1.6.2 (
