@@ -351,7 +351,7 @@ Instalações Especiais:
  | [Download](http://www.mediafire.com/?gh2at05v39fhn0m)
 )
 
-- Smart Moving Universal for ModLoader or Minecraft Forge or MCPC+ 14.5 (
+- Smart Moving Universal for ModLoader or Minecraft Forge or MCPC+ 14.4.1 (
 [Página](http://www.minecraftforum.net/topic/361430-)
- | [Download](http://www.mediafire.com/?gj8i80zqr23br87)
+ | [Download](http://www.mediafire.com/download/5hrd00mgiff6dl0/MC+1.6.2+-+Smart+Moving+14.4.1.zip)
 )
