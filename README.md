@@ -13,23 +13,27 @@ List de Mods:
  | [Fórum](http://www.minecraftforge.net/forum/)
  | [Dev](https://github.com/MinecraftForge/MinecraftForge)
 )
+
 ![Forge](/images/Forge.png)
 
 - Doggy Talents por ProPercivalalb (
 [Fórum](http://www.minecraftforum.net/topic/1650096-)
 )
+
 ![Doggy Talents](/images/Doggy Talents.png)
 
 - Crystal Wing por bspkrs (
 [Fórum](http://www.minecraftforum.net/topic/1114612-)
  | [Dev](https://github.com/bspkrs/CrystalWing)
 )
+
 ![CrystalWing](/images/CrystalWing.png)
 
 - IngameInfo por bspkrs (
 [Fórum](http://www.minecraftforum.net/topic/1114612-)
  | [Dev](https://github.com/bspkrs/IngameInfo)
 )
+
 ![CrystalWing](/images/CrystalWing.png)
 
 - RedIO por Nuchaz (
@@ -43,22 +47,26 @@ List de Mods:
 - Ars Magica 2 por Mithion (
 [Fórum](http://www.minecraftforum.net/topic/2028696-)
 )
+
 ![Ars Magica 2](/images/AM2.png)
 
 - Applied Energistics por AlgorithmX2 (
 [Página](http://ae-mod.info/)
 )
+
 ![Applied Energistics](/images/AppliedEnergistics.png)
 
 - Backpack por Eydamos (
 [Fórum](http://www.minecraftforum.net/topic/1492661-) 
 )
+
 ![Backpack](/images/Backpack.png)
 
 - BiblioCraft por Nuchaz (
 [Página](http://www.bibliocraftmod.com/)
  | [Fórum](http://www.minecraftforum.net/topic/1680480-)
 )
+
 ![Bibliocraft](/images/Bibliocraft.png)
 
 - BiblioWoods por Nuchaz (
@@ -69,12 +77,14 @@ List de Mods:
 [Fórum](http://www.minecraftforum.net/topic/1936273-)
  | [Site](http://computercraft.info)
 )
+
 ![Billund](/images/Billund.png)
 
 - Extra Bees & Trees por Binnie (
 [Site](http://extrabees.accudio.com/)
  | [Fórum](http://www.minecraftforum.net/topic/1324321-)
 )
+
 ![Extra Bees and Trees](/images/Extra Bees and Trees.png)
 
 - BiomesOPlenty por Adubbz (
@@ -88,6 +98,7 @@ List de Mods:
 [Página](http://www.mod-buildcraft.com/)
  | [Dev](https://github.com/BuildCraft/BuildCraft)
 )
+
 ![Buildcraft](/images/Buildcraft.png)
 
 - Carpenter's Blocks por Mineshopper (
@@ -114,18 +125,21 @@ List de Mods:
 [Página](http://www.computercraft.info/)
  | [Download](http://www.mediafire.com/download/b90mr75p779wj2e/ComputerCraft1.56.zip)
 )
+
 ![Computercraft](/images/Computercraft.png)
 
 - DartCraft por bluedart (
 [Página](http://www.minecraftforum.net/topic/1686840-)
  | [Download](http://adf.ly/XWWjk)
 )
+
 ![DartCraft](/images/DartCraft.png)
 
 - DenPipes por denoflions (
 [Fórum](http://www.minecraftforum.net/topic/1253666-)
 [Download](http://denoflionsx.info/)
 )
+
 ![DenPipes](/images/DenPipes.png)
 
 - DynamicLights por AtomicStryker (
@@ -149,6 +163,7 @@ List de Mods:
 - Factorization por neptunepink (
 [Fórum](http://www.minecraftforum.net/topic/1351802-) 
 )
+
 ![Factorization](/images/Factorization.png)
 
 - FinndusFillies por Myrathi (
@@ -194,6 +209,7 @@ List de Mods:
 - Inventory Tweaks por Kobata (
 [Fórum](http://www.minecraftforum.net/topic/1720872-)
 )
+
 ![InventoryTweaks](/images/InventoryTweaks.png)
 
 - Ironchest por cpw (
@@ -239,6 +255,7 @@ List de Mods:
 [Página](http://binarymage.com/)
  | [Fórum](http://www.minecraftforum.net/topic/918541-)
 )
+
 ![Mystcraft](/images/Mystcraft.png)
 
 - Natura por mDiyo (
@@ -311,6 +328,7 @@ List de Mods:
 - SoulShards 2 por ShadwDrgn (
 [Página](http://www.minecraftforum.net/topic/1475847-)
 )
+
 ![Soul Shard 2](/images/SoulShard2.png)
 
 - StevesCarts 2 por Vswe (
@@ -325,6 +343,7 @@ List de Mods:
 - Switches por Myrathi (
 [Fórum](http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/)
 )
+
 ![Switches](/images/Switches.png)
 
 - Tinkers Construct por mDiyo (
@@ -343,6 +362,7 @@ List de Mods:
 - Translocator 1.1.0.12 por chicken_bones (
 [Página](http://www.minecraftforum.net/topic/909223-)
 )
+
 ![Translocator](/images/Translocator.png)
 
 - Twilight Forest (
@@ -356,6 +376,7 @@ List de Mods:
 - Wireless Redstone - Chinken Bone Edition por chicken_bones (
 [Página](http://www.minecraftforum.net/topic/909223-)
 )
+
 ![WirelessRedstone](/images/WirelessRedstone.png)
 
 - ZansMinimap1.6.2 (
