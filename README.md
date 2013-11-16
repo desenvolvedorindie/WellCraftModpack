@@ -3,7 +3,7 @@ Well Mod Pack for 1.6.2 (1.0)
 
 Canal: [wellgameplay](http://www.youtube.com/user/wellgameplay)
 
-Playlist: [WellCraft Série]()
+Playlist: [WellCraft Série](#)
 
 List de Mods:
 ------
@@ -33,8 +33,6 @@ List de Mods:
 [Fórum](http://www.minecraftforum.net/topic/1114612-)
  | [Dev](https://github.com/bspkrs/IngameInfo)
 )
-
-![CrystalWing](/images/CrystalWing.png)
 
 - RedIO por Nuchaz (
 [Fórum](http://www.computercraft.info/forums2/index.php?/topic/13519-)
@@ -89,7 +87,7 @@ List de Mods:
 
 - BiomesOPlenty por Adubbz (
 [Fórum](http://www.minecraftforge.net/forum/index.php/topic,13244.0.html)
-[Download](http://files.minecraftforge.net/BiomesOPlenty/)
+ | [Download](http://files.minecraftforge.net/BiomesOPlenty/)
 )
 
 - Buildcraft Facades
@@ -192,6 +190,7 @@ List de Mods:
 - Hats por IChun (
 [Página](http://ichun.us/mods/hats/)
 )
+
 ![Hats](/images/Hats.png)
 
 - Hats Stand por IChun (
@@ -279,6 +278,7 @@ List de Mods:
 [Página](http://www.minecraftforum.net/topic/909223-)
  | [Download](http://adf.ly/SohmZ)
 )
+
 ![NEI](/images/NEI.png)
 
 - Obsidiplates por Myrathi (
