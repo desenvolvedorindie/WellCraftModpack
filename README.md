@@ -3,48 +3,45 @@ Well Mod Pack for 1.6.2 (1.0)
 
 Canal: [wellgameplay](http://www.youtube.com/user/wellgameplay)
 
-Playlist: [1.6.2 + Mods](http://www.youtube.com/playlist?list=PL9UEqVOLUjgAiTx5uRwV6wF9CBl5BE6RI)
+Playlist: [WellCraft Série]()
 
 Forge:
 ------
 
-- Forge 9.10.1.871 (
+- Forge 9 por LexManos, Eloraam e Spacetoad (
 [Página](http://files.minecraftforge.net/)
  | [Fórum](http://www.minecraftforge.net/forum/)
- | [Download](http://adf.ly/673885/http://files.minecraftforge.net/minecraftforge/minecraftforge-installer-1.6.2-9.10.1.871.jar)
  | [Dev](https://github.com/MinecraftForge/MinecraftForge)
 )
 
-Créditos:
----------
-
-<!--[Download](http://adf.ly/1599906/bspk.rs/MC/bspkrsCore/[1.6.2]bspkrsCorev3.05.zip)-->
-- [1.6.2]bspkrsCorev3.05 por bspkrs (
-[Fórum](http://www.minecraftforum.net/topic/1114612-)
- | [Dev](https://github.com/bspkrs/bspkrsCore)
+- Doggy Talents por ProPercivalalb (
+[Fórum](http://www.minecraftforum.net/topic/1650096-)
 )
 
-<!--[Download](http://adf.ly/1599906/bspk.rs/MC/CrystalWing/[1.6.2]CrystalWing.ML.1.6.2.r03.zip)-->
-- [1.6.2]CrystalWing.ML.1.6.2.r03 por bspkrs (
+- CrystalWing por bspkrs (
 [Fórum](http://www.minecraftforum.net/topic/1114612-)
  | [Dev](https://github.com/bspkrs/CrystalWing)
 )
 
-<!--[Download](http://adf.ly/1599906/bspk.rs/MC/DirectionHUD/[1.6.2]DirectionHUDv1.14.zip)-->
-- [1.6.2]DirectionHUDv1.14 por bspkrs (
-[Fórum](http://www.minecraftforum.net/topic/1114612-)
- | [Dev](https://github.com/bspkrs/DirectionHUD)
-)
-
-<!--[Download](http://adf.ly/1599906/bspk.rs/MC/IngameInfo/[1.6.2]IngameInfo.ML.1.6.2.r05.zip)-->
-- [1.6.2]IngameInfo.ML.1.6.2.r05 por bspkrs (
+- IngameInfo por bspkrs (
 [Fórum](http://www.minecraftforum.net/topic/1114612-)
  | [Dev](https://github.com/bspkrs/IngameInfo)
 )
 
-- appeng-rv13-c-mc162 por AlgorithmX2 (
+- AdvancedMachines por AtomicStryker (
+[Fórum](http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907)
+)
+
+- Ars Magica 2 por Mithion (
+[Fórum](http://www.minecraftforum.net/topic/2028696-)
+)
+
+- Applied Energistics por AlgorithmX2 (
 [Página](http://ae-mod.info/)
- | [Download](http://goo.gl/KjaS2U)
+)
+
+- Backpack (
+[Fórum](http://www.minecraftforum.net/topic/1492661-) 
 )
 
 - BiblioCraft v1.4.1 por Nuchaz (
