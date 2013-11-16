@@ -18,6 +18,8 @@ Forge:
 [Fórum](http://www.minecraftforum.net/topic/1650096-)
 )
 
+![Doggy Talents](/images/Doggy Talents.png)
+
 - CrystalWing por bspkrs (
 [Fórum](http://www.minecraftforum.net/topic/1114612-)
  | [Dev](https://github.com/bspkrs/CrystalWing)
